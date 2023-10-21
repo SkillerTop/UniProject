@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNWKUVCN7d0f0RCFJ5cfsEoZ//KuIqv73z7slBrMLnwjnqd/KzQgQMkKba/N3Avr9DHedoCAhELM6jHJqQt0Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skiller\\Desktop\\ASP.NET-lr-3\\ASPNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skiller\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
