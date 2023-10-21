@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Skiller\\Desktop\\ASP.NET-lr-3\\ASPNet.csproj",
+      "projectUniqueName": "C:\\Users\\Skiller\\Desktop\\ASP.NET-lr-4\\ASPNet.csproj",
       "projectName": "ASPNet",
-      "projectPath": "C:\\Users\\Skiller\\Desktop\\ASP.NET-lr-3\\ASPNet.csproj",
+      "projectPath": "C:\\Users\\Skiller\\Desktop\\ASP.NET-lr-4\\ASPNet.csproj",
       "packagesPath": "C:\\Users\\Skiller\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Skiller\\Desktop\\ASP.NET-lr-3\\obj\\",
+      "outputPath": "C:\\Users\\Skiller\\Desktop\\ASP.NET-lr-4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Skiller\\AppData\\Roaming\\NuGet\\NuGet.Config",
